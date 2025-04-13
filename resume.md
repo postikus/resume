@@ -45,7 +45,7 @@
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
-\textbf{Senior Developer, VP} & \textbf{Raiffeisenbank – Moscow} & \textbf{Jan 2019 – Sep 2020} \\
+\textbf{Senior Developer, Community Lead, VP} & \textbf{Raiffeisenbank – Moscow} & \textbf{Jan 2019 – Sep 2020} \\
 \end{tabularx}
 
 \vspace{0.3em}
