@@ -8,21 +8,19 @@
 \vspace{0.5em}
 
 \begin{tabularx}{\textwidth}{lXr}
-\textbf{Tech Director} & \textbf{inDrive – Cyprus} & \textbf{Jan 2025 – Present} \\
+\textbf{Tech Director, Delivery Hub&Scaling System} & \textbf{inDrive – Cyprus} & \textbf{Jan 2025 – Present} \\
 \end{tabularx}
 \begin{itemize}
-  \item Led 80+ engineers across DeliveryHub and SuperApp clusters
   \item Owned technical strategy across multiple logistics products with shared platform vision
-  \item Prepared partner integration solution and led strategic shift toward SuperApp ecosystem
+  \item Prepared partner integration solutions and led strategic shift toward SuperApp ecosystem
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
-\textbf{Head of Engineering} & \textbf{inDrive – Cyprus} & \textbf{Mar 2022 – Jan 2025} \\
+\textbf{Head of Engineering, Mobility} & \textbf{inDrive – Cyprus} & \textbf{Mar 2022 – Jan 2025} \\
 \end{tabularx}
 \begin{itemize}
-  \item Managed 50+ engineers across Intercity, Cargo, and Couriers product teams
   \item Drove technical delivery of new products in multiple regions, ensuring on-time launches and platform consistency
-  \item Improved Time to Market through backend-driven UI, WebView integration, and a systematic approach to SDLC processes and platform evolution
+  \item Improved Time to Market through backend-driven UI, WebView, and a systematic approach to SDLC processes and platform evolution
   \item Actively contributed in a leadership role to the development of the Crafters Model — a framework defining engineering principles, role expectations, and organizational metrics
 \end{itemize}
 
