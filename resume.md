@@ -2,7 +2,6 @@
 • Skilled in balancing architecture, speed, and product needs across complex systems  
 • Committed to a healthy engineering culture, automation, and continuous improvement  
 • Work closely with product, design, analytics, and business stakeholders  
-• Always exploring new technologies to improve developer experience and product scalability  
 
 \noindent\rule{\textwidth}{0.5pt}
 \vspace{0.5em}
