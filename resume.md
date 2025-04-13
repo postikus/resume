@@ -39,53 +39,72 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 
 ---
 
-\section*{Work Experience}
+\section*{\textcolor{accent}{Work Experience}}
 \noindent\rule{\textwidth}{0.5pt}
+\vspace{1em}
 
-\experienceblock{inDrive — Cyprus}{Tech Director}{Jan 2025 – Present}
+\begin{tabularx}{\textwidth}{lXr}
+\textbf{Tech Director} & \textbf{inDrive – Cyprus} & \textbf{Jan 2025 – Present} \\
+\end{tabularx}
 
-Leadership of the DeliveryHub & Scaling System cluster: Couriers, Cargo, SuperApp.  
-Responsible for technical strategy, team structure, and scaling key product verticals.
+\begin{itemize}
+  \item Directed the DeliveryHub & SuperApp clusters, scaling logistics platforms (Couriers, Cargo) across multiple geographies.
+  \item Defined technical strategy, introduced platform unification, and restructured teams for greater ownership and velocity.
+  \item Oversaw the architecture of scalable cross-team solutions supporting high delivery volume.
+\end{itemize}
+\vspace{1em}
 
-\vspace{0.8em}
+\begin{tabularx}{\textwidth}{lXr}
+\textbf{Head of Engineering} & \textbf{inDrive – Cyprus} & \textbf{Mar 2022 – Jan 2025} \\
+\end{tabularx}
 
-\experienceblock{inDrive — Cyprus}{Head of Engineering}{Mar 2022 – Jan 2025}
+\begin{itemize}
+  \item Led engineering for the Mobility cluster (Intercity, Cargo, Couriers) during rapid global growth.
+  \item Built cross-functional “1-pizza teams” model, improving focus and delivery predictability.
+  \item Balanced product-driven and platform investments, enabling scalable tech foundations.
+\end{itemize}
+\vspace{1em}
 
-Led engineering for the Mobility cluster (Intercity, Cargo, Couriers).  
-Focused on team performance, ownership culture, and long-term platform evolution across regions.
+\begin{tabularx}{\textwidth}{lXr}
+\textbf{Head of Frontend} & \textbf{inDrive – Moscow} & \textbf{Sep 2020 – Mar 2022} \\
+\end{tabularx}
 
-\vspace{0.8em}
+\begin{itemize}
+  \item Managed frontend platform development across B2C and B2B verticals.
+  \item Implemented design system unification and performance budgets, reducing tech debt and improving UX consistency.
+  \item Mentored 10+ engineers, established review culture and CI/CD pipelines.
+\end{itemize}
+\vspace{1em}
 
-\experienceblock{inDrive — Moscow}{Head of Frontend}{Sep 2020 – Mar 2022}
+\begin{tabularx}{\textwidth}{lXr}
+\textbf{Senior Developer, Community Lead, VP} & \textbf{Raiffeisenbank – Moscow} & \textbf{Jan 2019 – Sep 2020} \\
+\end{tabularx}
 
-Oversaw development and support of the company’s frontend platform.  
-Introduced best practices in code quality, architecture, and performance.  
-Responsible for platform stability and roadmap execution.
+\begin{itemize}
+  \item Delivered fullstack tools for employee assessment using Node.js, React, GraphQL.
+  \item Led internal frontend community, hiring, mentoring, and standards development.
+  \item Introduced modular architecture and CI/CD pipelines to boost delivery speed.
+\end{itemize}
+\vspace{1em}
 
-\vspace{0.8em}
+\begin{tabularx}{\textwidth}{lXr}
+\textbf{Project Manager} & \textbf{Raiffeisenbank – Moscow} & \textbf{Jul 2017 – Jan 2019} \\
+\end{tabularx}
 
-\experienceblock{Raiffeisenbank — Moscow}{Senior Developer, Community Lead, VP}{Jan 2019 – Sep 2020}
+\begin{itemize}
+  \item Managed budgets and delivery for internal training programs and events.
+  \item Introduced employee-generated content platform (UGC) from concept to implementation.
+\end{itemize}
+\vspace{1em}
 
-Led fullstack development of employee assessment tools.  
-\textit{Stack: Node.js, Express, MongoDB, React, GraphQL}  
-Set up CI/CD, code review processes, and team OKRs.  
-Contributed to internal design systems and standards.
+\begin{tabularx}{\textwidth}{lXr}
+\textbf{Senior L\&D Specialist} & \textbf{Raiffeisenbank – Moscow} & \textbf{Sep 2010 – Dec 2017} \\
+\end{tabularx}
 
-\vspace{0.8em}
-
-\experienceblock{Raiffeisenbank — Moscow}{Project Manager}{Jul 2017 – Jan 2019}
-
-Managed training and development projects.  
-Oversaw budgets, coordinated bank-wide events, and led UGC platform implementation.  
-Focused on complex cross-functional initiatives.
-
-\vspace{0.8em}
-
-\experienceblock{Raiffeisenbank — Moscow}{Senior L\&D Specialist}{Sep 2010 – Dec 2017}
-
-Supported internal tools, reporting systems, and automation.  
-Led implementation of new digital learning technologies.  
-Participated in international and cross-functional projects.
+\begin{itemize}
+  \item Automated reporting and internal tooling to support L&D teams.
+  \item Piloted and integrated digital learning technologies in cross-border initiatives.
+\end{itemize}
 
 ---
 
