@@ -3,7 +3,8 @@
 **Location:** Cyprus  
 **Citizenship:** Russia (with work permit for Russia)  
 **Phone:** +7 (925) 917 3123  
-**Email:** karpov.ignat@gmail.com _(preferred means of communication)_  
+**Email:** karpov.ignat@gmail.com  
+**Telegram:** @postikus _(preferred means of communication)_ 
 
 ---
 
