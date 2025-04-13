@@ -1,25 +1,34 @@
 ## Summary
 
-Experienced engineering leader with over 14 years in technology, including 5+ years in senior leadership roles. Proven track record of building and scaling engineering teams, leading cross-functional product development, and driving strategic initiatives in tech-driven companies. Strong background in architecting solutions, people management, and product-oriented delivery. Adept at fostering cross-functional collaboration and driving successful project delivery.
+Engineering leader with over 14 years of experience in scalable B2C platforms, including 5+ years in senior leadership roles. Proven track record in building cross-functional product-engineering teams, driving platform evolution, and leading delivery at scale. Passionate about building high-performance systems, enabling fast iteration, and balancing technical strategy with product goals.
 
 ---
 
 ## Technologies and Languages
 
-\textbf{Technologies \& Tools:}
+\textbf{Core Technologies:}
 
 \begin{itemize}
-  \item JavaScript, TypeScript, GoLang, Node.js
-  \item MongoDB, MySQL, MSSQL
-  \item Express, React
-  \item CI/CD pipelines, Agile methodologies
+  \item Go, JavaScript, TypeScript, Node.js
+  \item React, WebSockets, GraphQL, REST
+  \item MongoDB, MySQL, Redis, Kafka
+  \item CI/CD (GitHub Actions, GitLab CI), Docker, Kubernetes
+  \item Prometheus, Grafana, Sentry
+\end{itemize}
+
+\textbf{Domain Knowledge:}
+
+\begin{itemize}
+  \item Scalable backend systems for real-time apps
+  \item A/B testing, analytics pipelines
+  \item Engineering leadership, platform evolution
 \end{itemize}
 
 \textbf{Languages:}
 
 \begin{itemize}
   \item Russian – Native
-  \item English – Upper Intermediate
+  \item English – Upper Intermediate (B2)
 \end{itemize}
 
 ---
