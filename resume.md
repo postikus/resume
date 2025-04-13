@@ -25,7 +25,7 @@
 \vspace{0.3em}
 
 \begin{itemize}
-  \item Delivered new products in multiple regions, ensuring on-time launches and platform consistency
+  \item Delivered new products in multiple regions (Delivery, Intercity), ensuring on-time launches and platform consistency 
   \item Improved Time to Market through backend-driven UI, WebView, and a systematic approach to SDLC processes and platform evolution
   \item Reduced manual QA load across Mobility products by test automatisation
   \item Actively contributed to the development of the Crafters Model — a framework defining engineering principles, role expectations, and organizational metrics
