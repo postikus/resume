@@ -6,13 +6,6 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 
 ## Technologies and Languages
 
-\textbf{Languages:}
-
-\begin{itemize}
-  \item Russian – Native
-  \item English – Upper Intermediate
-\end{itemize}
-
 \textbf{Technologies \& Tools:}
 
 \begin{itemize}
@@ -20,6 +13,13 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
   \item MongoDB, MySQL, MSSQL
   \item Express, React
   \item CI/CD pipelines, Agile methodologies
+\end{itemize}
+
+\textbf{Languages:}
+
+\begin{itemize}
+  \item Russian – Native
+  \item English – Upper Intermediate
 \end{itemize}
 
 ---
