@@ -56,9 +56,7 @@ Engineering leader with over 14 years of experience in scalable B2C platforms, i
 
 \begin{itemize}
   \item Partnering with product/design to prioritize impact-driven delivery
-  \item Working with growth, UA and analytics to support KPIs (LTV, retention)
   \item A/B testing infrastructure, feature flags, event tracking design
-  \item Supporting creative and design workflows with automation
 \end{itemize}
 
 \textbf{Process and Delivery Management}
@@ -80,8 +78,7 @@ Engineering leader with over 14 years of experience in scalable B2C platforms, i
 \begin{itemize}
   \item Led a group of ~80 engineers across DeliveryHub and SuperApp clusters.
   \item Defined and executed platform strategy for scalable cross-region delivery products.
-  \item Scaled geo-specific features for LATAM, SEA and CIS, introducing shared tooling and reusable services.
-  \item Initiated “1-pizza teams” and OKR alignment rituals across clusters to boost team ownership and focus.
+  \item Foundational platform for new business lines: shared auth, analytics, metrics pipeline.
 \end{itemize}
 \vspace{1em}
 
@@ -91,9 +88,9 @@ Engineering leader with over 14 years of experience in scalable B2C platforms, i
 
 \begin{itemize}
   \item Managed 50+ engineers across Intercity, Cargo, and Couriers verticals.
-  \item Delivered foundational platform for new business lines: shared auth, analytics, metrics pipeline.
-  \item Launched Intercity MVP in multiple regions, applying lean experimentation and market-fit discovery.
-  \item Reorganized teams to product+platform structure with measurable goals and reduced time-to-launch by 30\%.
+  \item Launched muliple business verticals.
+  \item Defined and executed platform strategy for scalable cross-region delivery products.  
+  \item Reorganized teams structure with measurable goals and reduced time-to-market.
 \end{itemize}
 \vspace{1em}
 
@@ -103,9 +100,11 @@ Engineering leader with over 14 years of experience in scalable B2C platforms, i
 
 \begin{itemize}
   \item Led a team of 15+ engineers building and maintaining the company’s frontend platform.
-  \item Designed and introduced an in-house A/B testing platform with analytics integration.
-  \item Unified design system and frontend architecture across 6+ product teams.
+  \item Unified design system and frontend architecture across product teams.
   \item Reduced tech debt by 40\% through platform audits and component consolidation.
+  \item Designed and introduced an in-house A/B testing platform.
+  \item Admin platform to scalable multyfronted solution.
+  \item Created Intranet portal.
 \end{itemize}
 
 
