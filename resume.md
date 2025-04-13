@@ -27,7 +27,7 @@
 \begin{itemize}
   \item Delivered new products in multiple regions, ensuring on-time launches and platform consistency
   \item Improved Time to Market through backend-driven UI, WebView, and a systematic approach to SDLC processes and platform evolution
-  \item Reduced manual QA load and improving release quality across Mobility products by test automatisation
+  \item Reduced manual QA load and improved release quality across Mobility products by test automatisation
   \item Actively contributed to the development of the Crafters Model — a framework defining engineering principles, role expectations, and organizational metrics
 \end{itemize}
 
