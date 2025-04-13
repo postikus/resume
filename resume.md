@@ -1,13 +1,3 @@
-# Ignat Karpov
-
-**Location:** Cyprus  
-**Citizenship:** Russia (with work permit for Russia)  
-**Phone:** +7 (925) 917 3123  
-**Email:** karpov.ignat@gmail.com  
-**Telegram:** @postikus _(preferred means of communication)_ 
-
----
-
 ## Summary
 
 Experienced engineering leader with over 14 years in technology, including 5+ years in senior leadership roles. Proven track record of building and scaling engineering teams, leading cross-functional product development, and driving strategic initiatives in tech-driven companies. Strong background in architecting solutions, people management, and product-oriented delivery. Adept at fostering cross-functional collaboration and driving successful project delivery.
@@ -48,7 +38,7 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 \section*{Work Experience}
 \noindent\rule{\textwidth}{0.5pt}
 
-\experienceblock{inDrive — Cyprus}{Tech Director}{Jan 2025 – Present}
+\experienceblock{Tech Director}{inDrive — Cyprus}{Jan 2025 – Present}
 
 Leadership of the DeliveryHub & Scaling System cluster: Couriers, Cargo, SuperApp. Responsible for technical strategy, team structure, and scaling key product verticals.
 

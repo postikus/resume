@@ -1,15 +1,15 @@
 \documentclass[11pt]{article}
-\usepackage[margin=1.5cm]{geometry}
+\usepackage[margin=2cm]{geometry}
 \usepackage{fontspec}
 \setmainfont{Fira Sans}
 
 \usepackage{xcolor}
-\definecolor{accent}{RGB}{36, 99, 235}
+\definecolor{accent}{RGB}{80, 110, 200}  % Более мягкий синий
 \definecolor{text}{HTML}{111111}
 
 \usepackage{titlesec}
-\titleformat{\section}{\color{accent}\Large\bfseries}{}{0pt}{}
-\titleformat{\subsection}{\color{accent}\normalsize\bfseries}{}{0pt}{}
+\titleformat{\section}{\color{accent}\bfseries\large\uppercase}{}{0pt}{}
+\titleformat{\subsection}{\color{accent}\bfseries\normalsize}{}{0pt}{}
 
 \usepackage{hyperref}
 \hypersetup{
@@ -19,12 +19,12 @@
 }
 
 \usepackage{enumitem}
-\setlist[itemize]{left=1em, topsep=0pt, partopsep=0pt, itemsep=0pt, parsep=0pt}
+\setlist[itemize]{left=1em, topsep=2pt, partopsep=0pt, itemsep=2pt, parsep=0pt}
 \providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+  \setlength{\itemsep}{2pt}\setlength{\parskip}{0pt}}
 
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{4pt}
+\setlength{\parskip}{6pt}
 \setcounter{secnumdepth}{0}
 
 \usepackage{tabularx}
@@ -32,17 +32,18 @@
 
 \newcommand{\contactblock}{
 \begin{center}
-  {\LARGE \textbf{Ignat Karpov}}\\[6pt]
-  Cyprus \quad | \quad +7 (925) 917 3123 \quad | \quad \href{mailto:karpov.ignat@gmail.com}{karpov.ignat@gmail.com}
+  {\large \textbf{Ignat Karpov}}\\[4pt]
+  \textit{Cyprus} \quad • \quad \href{mailto:karpov.ignat@gmail.com}{karpov.ignat@gmail.com} \quad • \quad tg: @postikus
 \end{center}
-\vspace{1em}
+\vspace{1.2em}
 }
 
 \newcommand{\experienceblock}[3]{
+  \vspace{0.3em}
   \begin{tabularx}{\textwidth}{Xr}
     \textbf{#1} & \textbf{#3} \\
   \end{tabularx}
-  \textbf{#2}
+  {\textbf{#2}}\\
   \vspace{0.5em}
 }
 
