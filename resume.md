@@ -29,7 +29,7 @@
   \item Drove technical delivery of new products in multiple regions, ensuring on-time launches and platform consistency
   \item Improved Time to Market through backend-driven UI, WebView, and a systematic approach to SDLC processes and platform evolution
   \item Led test automation rollout, reducing manual QA load and improving release quality across Mobility products
-  \item Actively contributed in a leadership role to the development of the Crafters Model — a framework defining engineering principles, role expectations, and organizational metrics
+  \item Actively contributed to the development of the Crafters Model — a framework defining engineering principles, role expectations, and organizational metrics
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
