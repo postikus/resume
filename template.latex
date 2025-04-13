@@ -23,13 +23,15 @@
 }
 
 \usepackage{enumitem}
-\setlist[itemize]{left=1em, topsep=2pt, itemsep=2pt, parsep=0pt}
+\setlist[itemize]{left=1em, topsep=0pt, partopsep=0pt, itemsep=0pt, parsep=0pt}
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
+
+
 \renewcommand{\familydefault}{\sfdefault}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt}
+\setlength{\parskip}{2pt}
 
 % disable numbering of sections
 \setcounter{secnumdepth}{0}

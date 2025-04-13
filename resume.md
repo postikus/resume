@@ -23,9 +23,9 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 
 **Technologies & Tools:**
 
-- JavaScript, TypeScript, GoLang, Node.js, React
+- JavaScript, TypeScript, GoLang, Node.js
 - MongoDB, MySQL, MSSQL
-- GraphQL, Express
+- GraphQL, Express, React
 - CI/CD pipelines, Agile methodologies
 
 ---
