@@ -1,8 +1,10 @@
-Engineering leader with 14+ years of experience in scalable B2C platforms, including 5+ years in senior roles. Proven ability to scale teams, lead product-focused architecture, and drive platform evolution. Passionate about high-velocity delivery, engineering culture, and building systems that enable product growth. Experienced in cross-functional collaboration and data-informed decision-making.
+✓ An experienced leader with a strong background in driving organizational growth, transformation, and operational excellence within Product and Engineering.  
+✓ A true expert in creating scalable practices and fostering a strong product and engineering culture.  
+✓ Skilled in optimizing Time to Market, achieving outstanding results with fewer resources through a systematic approach and leveraging innovative methodologies.  
+✓ Passionate about technology, open to challenges, and focused on continuous improvement.
 
 ---
 
-## Work Experience
 \noindent\rule{\textwidth}{0.5pt}
 \vspace{0.5em}
 
