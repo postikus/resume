@@ -25,6 +25,9 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{5pt}
 
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 $if(title)$
 \title{\vspace{-1cm}$title$}
 $endif$
