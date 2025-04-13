@@ -11,27 +11,30 @@
 \textbf{Tech Director} & \textbf{inDrive – Cyprus} & \textbf{Jan 2025 – Present} \\
 \end{tabularx}
 \begin{itemize}
-  \item Led ~80 engineers across DeliveryHub and SuperApp clusters
-  \item Scaled delivery infrastructure across LATAM, SEA and CIS using modular services
-  \item Launched shared tooling and OKR alignment to improve velocity and focus
+  \item Led 8+0 engineers across DeliveryHub and SuperApp clusters
+  \item Owned technical strategy across multiple logistics products with shared platform vision
+  \item Scaled SuperApp infrastructure with modular integration for verticals and partner services
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
 \textbf{Head of Engineering} & \textbf{inDrive – Cyprus} & \textbf{Mar 2022 – Jan 2025} \\
 \end{tabularx}
 \begin{itemize}
-  \item Managed 50+ engineers across Intercity, Cargo, Couriers
-  \item Delivered shared platform layer (auth, analytics, deploy) for new verticals
-  \item Reorganized structure, improved onboarding and delivery cycles
+  \item Managed 50+ engineers across Intercity, Cargo, and Couriers product teams
+  \item Shipped new products in multiple markets
+  \item Improved Time to Market through backend-driven UI, WebView integration, and a systematic approach to SDLC processes and platform evolution
+  \item Actively contributed in a leadership role to the development of the Crafters Model — a framework defining engineering principles, role expectations, and organizational metrics
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
 \textbf{Head of Frontend} & \textbf{inDrive – Moscow} & \textbf{Sep 2020 – Mar 2022} \\
 \end{tabularx}
 \begin{itemize}
-  \item Led 15+ engineers, owning frontend platform for 6+ product teams
-  \item Introduced internal A/B testing platform and design system refactor
-  \item Reduced tech debt by 40\% and improved performance baselines
+  \item Led 15+ engineers maintaining core frontend platform for multiple verticals
+  \item Developed in-house A/B testing platform
+  \item Unified frontend stack: design system, build system, CI/CD, component architecture
+  \item Audited and refactored legacy areas, reducing tech debt by 40\%
+  \item Built review culture and performance baseline for critical flows
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
