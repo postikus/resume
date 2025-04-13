@@ -16,6 +16,15 @@ jobs:
           fetch-depth: 0  
           persist-credentials: false 
 
+
+      - name: Install Fira Sans
+        run: |
+          mkdir -p ~/.fonts
+          wget https://github.com/mozilla/Fira/archive/refs/heads/master.zip
+          unzip master.zip
+          cp -r Fira-master/ttf/* ~/.fonts/
+          fc-cache -fv
+
       - name: Install Pandoc and LaTeX
         run: |
           sudo apt-get update
