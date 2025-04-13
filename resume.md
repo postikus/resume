@@ -29,7 +29,7 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 \begin{itemize}
   \item Engineering management and team scaling
   \item Product and system architecture
-  \item Technical strategy and R&D
+  \item Technical strategy and R\&D
   \item Cross-functional collaboration
   \item OKRs and team performance tracking
   \item Hiring, mentoring, and coaching engineers
