@@ -39,9 +39,7 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 
 ---
 
-\section*{\textcolor{accent}{Work Experience}}
-\noindent\rule{\textwidth}{0.5pt}
-\vspace{1em}
+## Work Experience
 
 \begin{tabularx}{\textwidth}{lXr}
 \textbf{Tech Director} & \textbf{inDrive – Cyprus} & \textbf{Jan 2025 – Present} \\

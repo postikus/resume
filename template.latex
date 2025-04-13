@@ -4,7 +4,7 @@
 \setmainfont{Fira Sans}
 
 \usepackage{xcolor}
-\definecolor{accent}{RGB}{80, 110, 200}  % Более мягкий синий
+\definecolor{accent}{RGB}{80, 110, 200}
 \definecolor{text}{HTML}{111111}
 
 \usepackage{titlesec}
