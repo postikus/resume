@@ -33,7 +33,7 @@
 \newcommand{\contactblock}{
 \begin{center}
   {\large \textbf{Ignat Karpov}}\\[4pt]
-  \textit{Cyprus} \quad • \quad \href{mailto:karpov.ignat@gmail.com}{karpov.ignat@gmail.com} \quad • \quad tg: @postikus
+  \textit{Cyprus} \quad • \quad \href{mailto:karpov.ignat@gmail.com}{karpov.ignat@gmail.com} \quad • \quad \href{https://t.me/postikus}{tg: @postikus}
 \end{center}
 \vspace{1.2em}
 }
