@@ -50,10 +50,3 @@
   \item Managed training and UGC projects across the bank
   \item Oversaw budget, execution, and internal platforms
 \end{itemize}
-
-\begin{tabularx}{\textwidth}{lXr}
-\textbf{L\&D Specialist} & \textbf{Raiffeisenbank – Moscow} & \textbf{Sep 2010 – Dec 2017} \\
-\end{tabularx}
-\begin{itemize}
-  \item Automated reporting and piloted digital learning tools
-\end{itemize}
