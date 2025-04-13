@@ -10,7 +10,7 @@
 
 ## Summary
 
-Experienced engineering leader with over 14 years in technology, including 5+ years in senior leadership roles. Proven track record of building and scaling engineering teams, leading cross-functional product development, and driving strategic initiatives in tech-driven companies. Strong background in system architecture, people management, and product-oriented delivery. Adept at fostering cross-functional collaboration and driving successful project delivery.
+Experienced engineering leader with over 14 years in technology, including 5+ years in senior leadership roles. Proven track record of building and scaling engineering teams, leading cross-functional product development, and driving strategic initiatives in tech-driven companies. Strong background in architecting solutions, people management, and product-oriented delivery. Adept at fostering cross-functional collaboration and driving successful project delivery.
 
 ---
 
@@ -19,18 +19,20 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 **Languages:**
 
 - Russian – Native
-- English – Upper Intermediate (B2)
+- English – Upper Intermediate
 
 **Technologies & Tools:**
 
 - JavaScript, TypeScript, GoLang, Node.js
 - MongoDB, MySQL, MSSQL
-- GraphQL, Express, React
+- Express, React
 - CI/CD pipelines, Agile methodologies
 
 ---
 
 ## Skills
+
+****
 
 - Engineering management and team scaling  
 - Product and system architecture  
@@ -43,12 +45,10 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 
 ---
 
-## Work Experience
+\section*{Work Experience}
+\noindent\rule{\textwidth}{0.5pt}
 
-### Tech Director  
-
-**inDrive – Cyprus**  
-*January 2025 – Present*
+\experienceblock{inDrive — Cyprus}{Tech Director}{Jan 2025 – Present}
 
 Leadership of the DeliveryHub & Scaling System cluster: Couriers, Cargo, SuperApp. Responsible for technical strategy, team structure, and scaling key product verticals.
 

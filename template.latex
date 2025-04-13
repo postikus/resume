@@ -8,12 +8,8 @@
 \definecolor{text}{HTML}{111111}
 
 \usepackage{titlesec}
-\titleformat{\section}
-  {\color{accent}\Large\bfseries}
-  {}{0pt}{}
-\titleformat{\subsection}
-  {\color{accent}\normalsize\bfseries}
-  {}{0pt}{}
+\titleformat{\section}{\color{accent}\Large\bfseries}{}{0pt}{}
+\titleformat{\subsection}{\color{accent}\normalsize\bfseries}{}{0pt}{}
 
 \usepackage{hyperref}
 \hypersetup{
@@ -27,14 +23,28 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-
-
-\renewcommand{\familydefault}{\sfdefault}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{2pt}
-
-% disable numbering of sections
+\setlength{\parskip}{4pt}
 \setcounter{secnumdepth}{0}
+
+\usepackage{tabularx}
+\usepackage{graphicx}
+
+\newcommand{\contactblock}{
+\begin{center}
+  {\LARGE \textbf{Ignat Karpov}}\\[6pt]
+  Cyprus \quad | \quad +7 (925) 917 3123 \quad | \quad \href{mailto:karpov.ignat@gmail.com}{karpov.ignat@gmail.com}
+\end{center}
+\vspace{1em}
+}
+
+\newcommand{\experienceblock}[3]{
+  \begin{tabularx}{\textwidth}{Xr}
+    \textbf{#1} & \textbf{#3} \\
+  \end{tabularx}
+  \textbf{#2}
+  \vspace{0.5em}
+}
 
 $if(title)$
 \title{$title$}
@@ -48,9 +58,7 @@ $endif$
 
 \begin{document}
 
-$if(title)$
-\maketitle
-$endif$
+\contactblock
 
 $body$
 
