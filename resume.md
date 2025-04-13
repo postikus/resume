@@ -52,8 +52,8 @@
 \vspace{0.3em}
 
 \begin{itemize}
-  \item Delivered fullstack tools (Node.js, React, GraphQL)
-  \item Led frontend community, hiring, standards, and CI/CD rollout
+  \item Delivered fullstack internal products (Node.js, React, GraphQL)
+  \item Led frontend community, hiring, and tech standards
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
@@ -63,6 +63,6 @@
 \vspace{0.3em}
 
 \begin{itemize}
-  \item Managed training and UGC projects across the bank
-  \item Oversaw budget, execution, and internal platforms
+  \item Managed training and user generated content projects across the bank
+  \item Oversaw L\&D budget
 \end{itemize}
