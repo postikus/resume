@@ -1,4 +1,4 @@
-name: Convert Markdown to PDF
+name: Build and Push PDF Resume
 
 on:
   push:
@@ -6,12 +6,15 @@ on:
       - main
 
 jobs:
-  build-pdf:
+  build-and-push:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  
+          persist-credentials: false 
 
       - name: Install Pandoc and LaTeX
         run: |
@@ -22,8 +25,15 @@ jobs:
         run: |
           pandoc resume.md -o resume.pdf --pdf-engine=xelatex
 
-      - name: Upload PDF as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: resume-pdf
-          path: resume.pdf
+      - name: Push PDF to pdf branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout --orphan pdf
+          git rm -rf .
+          mv resume.pdf index.pdf
+
+          git add index.pdf
+          git commit -m "Update PDF resume"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} pdf
