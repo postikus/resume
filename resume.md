@@ -2,6 +2,7 @@
 ✓ Proven ability to scale teams, drive product-focused architecture, and lead long-term platform evolution  
 ✓ Passionate about high-velocity delivery, strong engineering culture, and systems that support product growth  
 ✓ Experienced in cross-functional collaboration and data-driven decision-making
+✓ Keen on adopting new technologies to improve product scalability, developer experience, and speed of innovation
 
 ---
 
