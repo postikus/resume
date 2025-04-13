@@ -4,7 +4,6 @@
 **Citizenship:** Russia (with work permit for Russia)  
 **Phone:** +7 (925) 917 3123  
 **Email:** karpov.ignat@gmail.com _(preferred means of communication)_  
-**Willing to relocate, open to business trips_
 
 ---
 
@@ -18,19 +17,17 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 
 **Languages:**
 - Russian – Native
-- English – Intermediate (B1)
-- French – Elementary (A2)
+- English – Upper Intermediate (B2)
 
 **Technologies & Tools:**
-- JavaScript, TypeScript, GoLang, Node.js, React, HTML, CSS  
-- MongoDB, MySQL, MS SQL, SQL  
-- GraphQL, Express, Styled-components, Lerna, Jest  
+- JavaScript, TypeScript, GoLang, Node.js, React
+- MongoDB, MySQL, MSSQL
+- GraphQL, Express
 - CI/CD pipelines, Agile methodologies
 
 ---
 
 ## Skills
-
 - Engineering management and team scaling  
 - Product and system architecture  
 - Technical strategy and R&D  

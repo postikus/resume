@@ -1,0 +1,46 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{fontspec}
+\setmainfont{Fira Sans}  % или Inter / Helvetica
+
+\usepackage{xcolor}
+\definecolor{accent}{RGB}{36, 99, 235} % синий акцент
+\definecolor{text}{HTML}{111111}
+
+\usepackage{titlesec}
+\titleformat{\section}{\color{accent}\Large\bfseries}{}{0em}{}
+\titleformat{\subsection}{\color{accent}\bfseries}{}{0em}{}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=accent,
+  linkcolor=accent
+}
+
+\usepackage{enumitem}
+\setlist[itemize]{left=1em, topsep=2pt, itemsep=2pt}
+
+\renewcommand{\familydefault}{\sfdefault}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+
+$if(title)$
+\title{\vspace{-1cm}$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+\begin{document}
+
+$if(title)$
+\maketitle
+$endif$
+
+$body$
+
+\end{document}
