@@ -35,15 +35,38 @@ Engineering leader with over 14 years of experience in scalable B2C platforms, i
 
 ## Skills
 
+\textbf{Engineering Leadership}
+
 \begin{itemize}
-  \item Engineering management and team scaling
-  \item Product and system architecture
-  \item Technical strategy and R\&D
-  \item Cross-functional collaboration
-  \item OKRs and team performance tracking
-  \item Hiring, mentoring, and coaching engineers
-  \item Project and budget management
-  \item Delivery and platform efficiency
+  \item Scaling and mentoring multi-level engineering teams (60+ people)
+  \item Defining and executing technical strategy in alignment with product goals
+  \item Promoting engineering culture: ownership, autonomy, performance
+  \item Hiring, team health monitoring, structured OKRs
+\end{itemize}
+
+\textbf{Architecture and Platforms}
+
+\begin{itemize}
+  \item Designing scalable backend platforms (event-driven, service-oriented)
+  \item Refactoring monoliths into modular, maintainable systems
+  \item Tech stack selection and evolution: balancing long-term and speed
+\end{itemize}
+
+\textbf{Product and Data Understanding}
+
+\begin{itemize}
+  \item Partnering with product/design to prioritize impact-driven delivery
+  \item Working with growth, UA and analytics to support KPIs (LTV, retention)
+  \item A/B testing infrastructure, feature flags, event tracking design
+  \item Supporting creative and design workflows with automation
+\end{itemize}
+
+\textbf{Process and Delivery Management}
+
+\begin{itemize}
+  \item Setting up agile development processes across distributed teams
+  \item Optimizing delivery pipelines for frequent, stable releases
+  \item Managing tech debt vs business goals, roadmap alignment
 \end{itemize}
 
 ---
