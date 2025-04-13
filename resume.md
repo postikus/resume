@@ -1,8 +1,8 @@
-• Engineering leader with a strong track record of growing teams, evolving platforms, and delivering impact  
-• Proven ability to scale teams, drive product-focused architecture, and lead long-term platform evolution  
-• Passionate about high-velocity delivery, strong engineering culture, and systems that support product growth  
-• Experienced in cross-functional collaboration and data-driven decision-making  
-• Keen on adopting new technologies to improve product scalability, developer experience, and speed of innovation
+• Focused on growing strong engineering teams and building platforms that enable fast, product-focused delivery  
+• Skilled in balancing architecture, speed, and product needs across complex systems  
+• Committed to a healthy engineering culture, automation, and continuous improvement  
+• Work closely with product, design, analytics, and business stakeholders  
+• Always exploring new technologies to improve developer experience and product scalability  
 
 \noindent\rule{\textwidth}{0.5pt}
 \vspace{0.5em}
