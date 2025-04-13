@@ -1,7 +1,7 @@
-✓ An experienced leader with a strong background in driving organizational growth, transformation, and operational excellence within Product and Engineering.  
-✓ A true expert in creating scalable practices and fostering a strong product and engineering culture.  
-✓ Skilled in optimizing Time to Market, achieving outstanding results with fewer resources through a systematic approach and leveraging innovative methodologies.  
-✓ Passionate about technology, open to challenges, and focused on continuous improvement.
+✓ Engineering leader with a strong track record of growing teams, evolving platforms, and delivering impact  
+✓ Proven ability to scale teams, drive product-focused architecture, and lead long-term platform evolution  
+✓ Passionate about high-velocity delivery, strong engineering culture, and systems that support product growth  
+✓ Experienced in cross-functional collaboration and data-driven decision-making
 
 ---
 
