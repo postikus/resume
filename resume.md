@@ -46,7 +46,7 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 \end{tabularx}
 
 \begin{itemize}
-  \item Directed the DeliveryHub & SuperApp clusters, scaling logistics platforms (Couriers, Cargo) across multiple geographies.
+  \item Directed the DeliveryHub \& SuperApp clusters, scaling logistics platforms (Couriers, Cargo) across multiple geographies.
   \item Defined technical strategy, introduced platform unification, and restructured teams for greater ownership and velocity.
   \item Oversaw the architecture of scalable cross-team solutions supporting high delivery volume.
 \end{itemize}
@@ -100,7 +100,7 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 \end{tabularx}
 
 \begin{itemize}
-  \item Automated reporting and internal tooling to support L&D teams.
+  \item Automated reporting and internal tooling to support L\&D teams.
   \item Piloted and integrated digital learning technologies in cross-border initiatives.
 \end{itemize}
 
