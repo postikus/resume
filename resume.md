@@ -64,5 +64,5 @@
 
 \begin{itemize}
   \item Managed training and user generated content projects across the bank
-  \item Oversaw L\&D budget
+  \item Was responsible for L\&D budget in Bank
 \end{itemize}
