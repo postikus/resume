@@ -4,8 +4,6 @@
 ✓ Experienced in cross-functional collaboration and data-driven decision-making
 ✓ Keen on adopting new technologies to improve product scalability, developer experience, and speed of innovation
 
----
-
 \noindent\rule{\textwidth}{0.5pt}
 \vspace{0.5em}
 
