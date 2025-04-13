@@ -13,7 +13,7 @@
 \vspace{0.3em}
 
 \begin{itemize}
-  \item Led 60+ engineers across product clusters
+  \item Led 100+ engineers across product clusters
   \item Owned technical strategy across multiple logistics products with shared platform vision
   \item Prepared partner integration solutions and led strategic shift toward SuperApp ecosystem
 \end{itemize}
@@ -25,9 +25,9 @@
 \vspace{0.3em}
 
 \begin{itemize}
-  \item Drove technical delivery of new products in multiple regions, ensuring on-time launches and platform consistency
+  \item Delivered new products in multiple regions, ensuring on-time launches and platform consistency
   \item Improved Time to Market through backend-driven UI, WebView, and a systematic approach to SDLC processes and platform evolution
-  \item Led test automation rollout, reducing manual QA load and improving release quality across Mobility products
+  \item Reducing manual QA load and improving release quality across Mobility products by test automatisation
   \item Actively contributed to the development of the Crafters Model — a framework defining engineering principles, role expectations, and organizational metrics
 \end{itemize}
 
@@ -38,7 +38,8 @@
 \vspace{0.3em}
 
 \begin{itemize}
-  \item Developed in-house A/B testing platform, admin platform, intranet portal
+  \item Developed internal A/B testing platform that powered thousands of experiments
+  \item Created and implemented the admin panel framework adopted as a standard across all product teams
   \item Unified frontend stack: design system, build system, CI/CD, component architecture
   \item Audited and refactored legacy areas, reducing tech debt by 40\%
   \item Built review culture and performance baseline for critical flows
@@ -51,8 +52,8 @@
 \vspace{0.3em}
 
 \begin{itemize}
-  \item Delivered fullstack internal products (Node.js, React, GraphQL)
   \item Led frontend community, hiring, and tech standards
+  \item Delivered fullstack internal products (Node.js, React, GraphQL)
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
