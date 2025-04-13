@@ -78,9 +78,10 @@ Engineering leader with over 14 years of experience in scalable B2C platforms, i
 \end{tabularx}
 
 \begin{itemize}
-  \item Directed the DeliveryHub \& SuperApp clusters, scaling logistics platforms (Couriers, Cargo) across multiple geographies.
-  \item Defined technical strategy, introduced platform unification, and restructured teams for greater ownership and velocity.
-  \item Oversaw the architecture of scalable cross-team solutions supporting high delivery volume.
+  \item Led a group of ~80 engineers across DeliveryHub and SuperApp clusters.
+  \item Defined and executed platform strategy for scalable cross-region delivery products.
+  \item Scaled geo-specific features for LATAM, SEA and CIS, introducing shared tooling and reusable services.
+  \item Initiated “1-pizza teams” and OKR alignment rituals across clusters to boost team ownership and focus.
 \end{itemize}
 \vspace{1em}
 
@@ -89,9 +90,10 @@ Engineering leader with over 14 years of experience in scalable B2C platforms, i
 \end{tabularx}
 
 \begin{itemize}
-  \item Led engineering for the Mobility cluster (Intercity, Cargo, Couriers) during rapid global growth.
-  \item Built cross-functional “1-pizza teams” model, improving focus and delivery predictability.
-  \item Balanced product-driven and platform investments, enabling scalable tech foundations.
+  \item Managed 50+ engineers across Intercity, Cargo, and Couriers verticals.
+  \item Delivered foundational platform for new business lines: shared auth, analytics, metrics pipeline.
+  \item Launched Intercity MVP in multiple regions, applying lean experimentation and market-fit discovery.
+  \item Reorganized teams to product+platform structure with measurable goals and reduced time-to-launch by 30\%.
 \end{itemize}
 \vspace{1em}
 
@@ -100,11 +102,12 @@ Engineering leader with over 14 years of experience in scalable B2C platforms, i
 \end{tabularx}
 
 \begin{itemize}
-  \item Managed frontend platform development across B2C and B2B verticals.
-  \item Implemented design system unification and performance budgets, reducing tech debt and improving UX consistency.
-  \item Mentored 10+ engineers, established review culture and CI/CD pipelines.
+  \item Led a team of 15+ engineers building and maintaining the company’s frontend platform.
+  \item Designed and introduced an in-house A/B testing platform with analytics integration.
+  \item Unified design system and frontend architecture across 6+ product teams.
+  \item Reduced tech debt by 40\% through platform audits and component consolidation.
 \end{itemize}
-\vspace{1em}
+
 
 \begin{tabularx}{\textwidth}{lXr}
 \textbf{Senior Developer, Community Lead, VP} & \textbf{Raiffeisenbank – Moscow} & \textbf{Jan 2019 – Sep 2020} \\
