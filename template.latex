@@ -8,28 +8,32 @@
 \definecolor{text}{HTML}{111111}
 
 \usepackage{titlesec}
-\titleformat{\section}{\color{accent}\Large\bfseries}{}{0em}{}
-\titleformat{\subsection}{\color{accent}\bfseries}{}{0em}{}
+\titleformat{\section}
+  {\color{accent}\Large\bfseries}
+  {}{0pt}{}
+\titleformat{\subsection}
+  {\color{accent}\normalsize\bfseries}
+  {}{0pt}{}
 
 \usepackage{hyperref}
 \hypersetup{
   colorlinks=true,
-  urlcolor=accent,
-  linkcolor=accent
+  linkcolor=accent,
+  urlcolor=accent
 }
 
 \usepackage{enumitem}
 \setlist[itemize]{left=1em, topsep=2pt, itemsep=2pt}
+\setlist[description]{style=unboxed,leftmargin=0em,labelsep=0.5em}
 
 \renewcommand{\familydefault}{\sfdefault}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{5pt}
-
+\setlength{\parskip}{6pt}
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 $if(title)$
-\title{\vspace{-1cm}$title$}
+\title{$title$}
 $endif$
 $if(author)$
 \author{$author$}

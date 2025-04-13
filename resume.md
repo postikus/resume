@@ -9,7 +9,7 @@
 
 ## Summary
 
-Experienced engineering leader with over 14 years in technology, including 5+ years in senior leadership roles. Proven track record of building and scaling engineering teams, leading cross-functional product development, and driving strategic initiatives in tech-driven companies. Strong background in system architecture, people management, and product-oriented delivery across transportation, logistics, and banking sectors.
+Experienced engineering leader with over 14 years in technology, including 5+ years in senior leadership roles. Proven track record of building and scaling engineering teams, leading cross-functional product development, and driving strategic initiatives in tech-driven companies. Strong background in system architecture, people management, and product-oriented delivery. Adept at fostering cross-functional collaboration and driving successful project delivery.
 
 ---
 
