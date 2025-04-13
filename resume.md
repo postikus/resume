@@ -16,10 +16,12 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 ## Technologies and Languages
 
 **Languages:**
+
 - Russian – Native
 - English – Upper Intermediate (B2)
 
 **Technologies & Tools:**
+
 - JavaScript, TypeScript, GoLang, Node.js, React
 - MongoDB, MySQL, MSSQL
 - GraphQL, Express
@@ -28,6 +30,7 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 ---
 
 ## Skills
+
 - Engineering management and team scaling  
 - Product and system architecture  
 - Technical strategy and R&D  
@@ -42,6 +45,7 @@ Experienced engineering leader with over 14 years in technology, including 5+ ye
 ## Work Experience
 
 ### Tech Director  
+
 **inDrive – Cyprus**  
 *January 2025 – Present*
 
@@ -50,6 +54,7 @@ Leadership of the DeliveryHub & Scaling System cluster: Couriers, Cargo, SuperAp
 ---
 
 ### Head of Engineering  
+
 **inDrive – Cyprus**  
 *March 2022 – January 2025*
 
@@ -58,6 +63,7 @@ Led engineering for the Mobility cluster (Intercity, Cargo, Couriers). Focused o
 ---
 
 ### Head of Frontend  
+
 **inDrive – Moscow**  
 *September 2020 – March 2022*
 
@@ -66,6 +72,7 @@ Oversaw development and support of the company’s frontend platform. Introduced
 ---
 
 ### Senior Developer, Community Lead, VP  
+
 **Raiffeisenbank – Moscow**  
 *January 2019 – September 2020*
 
@@ -77,6 +84,7 @@ Actively contributed to the design system and internal development standards.
 ---
 
 ### Project Manager  
+
 **Raiffeisenbank – Moscow**  
 *July 2017 – January 2019*
 
@@ -87,6 +95,7 @@ Focus on complex cross-functional initiatives.
 ---
 
 ### Senior L&D Specialist  
+
 **Raiffeisenbank – Moscow**  
 *September 2010 – December 2017*
 
