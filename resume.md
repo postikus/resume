@@ -11,9 +11,9 @@
 \textbf{Tech Director} & \textbf{inDrive – Cyprus} & \textbf{Jan 2025 – Present} \\
 \end{tabularx}
 \begin{itemize}
-  \item Led 8+0 engineers across DeliveryHub and SuperApp clusters
+  \item Led 80+ engineers across DeliveryHub and SuperApp clusters
   \item Owned technical strategy across multiple logistics products with shared platform vision
-  \item Scaled SuperApp infrastructure with modular integration for verticals and partner services
+  \item Prepared partner integration solution and led strategic shift toward SuperApp ecosystem
 \end{itemize}
 
 \begin{tabularx}{\textwidth}{lXr}
@@ -21,7 +21,7 @@
 \end{tabularx}
 \begin{itemize}
   \item Managed 50+ engineers across Intercity, Cargo, and Couriers product teams
-  \item Shipped new products in multiple markets
+  \item Drove technical delivery of new products in multiple regions, ensuring on-time launches and platform consistency
   \item Improved Time to Market through backend-driven UI, WebView integration, and a systematic approach to SDLC processes and platform evolution
   \item Actively contributed in a leadership role to the development of the Crafters Model — a framework defining engineering principles, role expectations, and organizational metrics
 \end{itemize}
@@ -31,7 +31,7 @@
 \end{tabularx}
 \begin{itemize}
   \item Led 15+ engineers maintaining core frontend platform for multiple verticals
-  \item Developed in-house A/B testing platform
+  \item Developed in-house A/B testing platform, admin platform, intranet portal
   \item Unified frontend stack: design system, build system, CI/CD, component architecture
   \item Audited and refactored legacy areas, reducing tech debt by 40\%
   \item Built review culture and performance baseline for critical flows
